@@ -1,7 +1,5 @@
 # SickChess – friends version
 
-**English** | [Français](README-fr.md)
-
 A chess game for Windows: play against the computer (Stockfish 17.1, or Maia 3, which plays like a human, depending on the level), with two players on the same PC or online with Steam friends, plus puzzles, opening training and analysis of your games.
 
 - **Maia 3, two models:** the small one (5M, 21 MB, included with the game) and the large one (79M, 312 MB, the most human). The game uses the large one as soon as it is available, except on a low-end PC, which keeps the small one. [Maia-3 by the CSSLab, University of Toronto](https://github.com/CSSLab/maia3).
